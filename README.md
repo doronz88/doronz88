@@ -9,6 +9,7 @@ I'm very passionate for developing research & automation tools. Currently mainly
 | [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) | Pure python3 implementation for working with iDevices (iPhone, etc...).
 | [Hilda](https://github.com/doronz88/hilda) | LLDB wrapped and empowered by iPython's features
 | [harlogger](https://github.com/doronz88/harlogger) | Simple utlity for sniffing decrypted HTTP/HTTPS traffic on an iOS device (either jailbroken or not)
+| [cklogger](https://github.com/doronz88/cklogger) | Simple pure python utility for sniffing CloudKit usages on iDevices (either jailbroken or not)
 | [cfprefsmon](https://github.com/doronz88/cfprefsmon) | Python utility for discovering interesting CFPreferences values on iDevices
 | [rpc-project](https://github.com/doronz88/rpc-project) | Minimalistic server (written in C) and a python3 client to allow calling native functions on a remote host for automation purposes
 | [pycrashreport](https://github.com/doronz88/pycrashreport) | Python3 parser for Apple's crash reports
