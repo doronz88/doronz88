@@ -18,7 +18,7 @@ I'm very passionate for developing research & automation tools. Currently mainly
 | [fa](https://github.com/doronz88/fa) | Automation tool for locating symbols & structs in binary (primary IDA focused)
 | [swift_reversing](https://github.com/doronz88/swift_reversing) | My ongoing premier on reversing Swift
 | [pytbd](https://github.com/doronz88/pytbd) | Swiss army knife for Apple's .tbd file manipulation
-| [applecatalob](https://github.com/doronz88/applecatalog) | Python library and CLI for listing and downloading Apple's updates for macOS (Secruity updates, CommandLineTools, OS Upgrades and etc...)
+| [applecatalog](https://github.com/doronz88/applecatalog) | Python library and CLI for listing and downloading Apple's updates for macOS (Secruity updates, CommandLineTools, OS Upgrades and etc...)
 | [simpleelf](https://github.com/doronz88/simpleelf) | Parse and build simple ELFs (useful for mapping memory to load into IDA and other disassemblers)
 
 ### GitHub Stats
