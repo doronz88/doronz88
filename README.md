@@ -8,7 +8,7 @@ I'm very passionate for developing research & automation tools. Currently mainly
 | ------- | ------------
 | [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) | Pure python3 implementation for working with iDevices (iPhone, etc...).
 | [Hilda](https://github.com/doronz88/hilda) | LLDB wrapped and empowered by iPython's features
-| [pylera1n](https://github.com/doronz88/pylera1n) | Python adaptation for pelara1n.
+| [ida-scripts](https://github.com/doronz88/ida-scripts) | Collection of IDA scripts I'm using (mainly for iOS reversing)
 | [ipsw_parser](https://github.com/doronz88/ipsw_parser) | Parse and extract .ipsw files
 | [harlogger](https://github.com/doronz88/harlogger) | Simple utlity for sniffing decrypted HTTP/HTTPS traffic on an iOS device (either jailbroken or not)
 | [cklogger](https://github.com/doronz88/cklogger) | Simple pure python utility for sniffing CloudKit usages on iDevices (either jailbroken or not)
@@ -20,6 +20,7 @@ I'm very passionate for developing research & automation tools. Currently mainly
 | [pytbd](https://github.com/doronz88/pytbd) | Swiss army knife for Apple's .tbd file manipulation
 | [applecatalog](https://github.com/doronz88/applecatalog) | Python library and CLI for listing and downloading Apple's updates for macOS (Secruity updates, CommandLineTools, OS Upgrades and etc...)
 | [simpleelf](https://github.com/doronz88/simpleelf) | Parse and build simple ELFs (useful for mapping memory to load into IDA and other disassemblers)
+| [pylera1n](https://github.com/doronz88/pylera1n) | Python adaptation for pelara1n.
 
 ### GitHub Stats
 
