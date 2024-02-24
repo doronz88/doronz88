@@ -7,6 +7,7 @@ I'm very passionate for developing research & automation tools. Currently mainly
 | Project | Description
 | ------- | ------------
 | [pymobiledevice3](https://github.com/doronz88/pymobiledevice3) | Pure python3 implementation for working with iDevices (iPhone, etc...).
+| [c-helpers](https://github.com/doronz88/c-helpers) | Helpers for c-structs sizes and offsets
 | [Hilda](https://github.com/doronz88/hilda) | LLDB wrapped and empowered by iPython's features
 | [ida-scripts](https://github.com/doronz88/ida-scripts) | Collection of IDA scripts I'm using (mainly for iOS reversing)
 | [ipsw_parser](https://github.com/doronz88/ipsw_parser) | Parse and extract .ipsw files
