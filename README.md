@@ -1,4 +1,4 @@
-### hey! i'm DoronZ 👋
+### Hey! i'm DoronZ 👋
 
 I'm very passionate for developing research & automation tools. Currently mainly focused on iOS research.
 
